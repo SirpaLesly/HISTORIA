@@ -1,0 +1,22 @@
+*{
+    margin: 10px;
+}
+body{
+    background-color: rgb(224, 182, 66);
+}
+
+h1 {
+    color: rgb(197, 58, 58);   
+    font-family: sans-serif;
+}
+h2 {
+    color: aqua;
+}
+img{
+    width: 250px;
+    height: 180px;
+}
+p{
+    color: blueviolet;
+    background-color: azure;
+}
